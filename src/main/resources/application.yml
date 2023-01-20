@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://iaritina:iaritina@cluster0.3f4ntmr.mongodb.net/?retryWrites=true&w=majority
+      database: Enchere
